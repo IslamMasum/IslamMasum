@@ -25,7 +25,7 @@ I enjoy designing scalable enterprise applications, leading engineering teams, a
 
 ### 🛠️ Tech Stack
 
-Java • Spring Boot • Angular • PostgreSQL • Docker • Kubernetes • Microservices
+Java • Python • Spring Boot • Typescript • PostgreSQL • Docker • Kubernetes • Microservices
 
 ### 📫 Connect
 
