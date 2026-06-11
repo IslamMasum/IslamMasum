@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @IslamMasum
-- 👀 I’m interested in Software Design & Architecture...
-- 🌱 I’m currently practicing cyber security and relevants...
-- 💞️ I’m looking to collaborate on relevant Projects...
-- 📫 How to reach me later ;)...
+# Hi there 👋 I'm Masum Islam
 
-<!---
-IslamMasum/IslamMasum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Technical Lead | System Architect | Product Builder
+
+I enjoy designing scalable enterprise applications, leading engineering teams, and turning ideas into successful products.
+
+### 🔭 Currently Working On
+
+* Enterprise SaaS Platforms
+* University Management Systems
+* AI-Powered Solutions
+* Cloud & Distributed Systems
+
+### 🌱 Currently Learning
+
+* Cyber Security
+* Agentic AI Systems
+* Cloud-Native Architecture
+
+### 💞️ Looking to Collaborate On
+
+* Open Source Projects
+* Enterprise Applications
+* AI & Automation Solutions
+
+### 🛠️ Tech Stack
+
+Java • Spring Boot • Angular • PostgreSQL • Docker • Kubernetes • Microservices
+
+### 📫 Connect
+
+* GitHub: @IslamMasum
+
+> Building software that solves real-world problems.
